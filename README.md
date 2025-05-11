@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/imagen_azul.jpg
 coverY: 0
 layout:
   cover:
