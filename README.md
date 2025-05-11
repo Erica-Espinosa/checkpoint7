@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 👩‍💻 Contenido
 
 ## [1. ¿Qué diferencia a JavaScript de cualquier otro lenguaje de programación?](aprendiendo-javascript.md#id-1.-que-diferencia-a-javascript-de-cualquier-otro-lenguaje-de-programacion)
