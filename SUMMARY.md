@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Contenido](README.md)
+* [👩‍💻 Contenido](README.md)
 * [Aprendiendo JavaScript](aprendiendo-javascript.md)
