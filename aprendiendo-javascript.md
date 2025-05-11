@@ -8,7 +8,7 @@ description: En esta sección aprenderemos algunos conceptos básicos de JavaScr
 
 Para diferenciar **JavaScript** de otros lenguajes de programación, debemos tener claro primero un concepto general sobre que es **JavaScript** .
 
-### Que es JavaScript
+### ¿Que es JavaScript?
 
 **JavaScript** (fue originalmente llamado "LiveScript") es un lenguaje de programación que los desarrolladores utilizan para hacer páginas web interactivas. Desde actualizar fuentes de redes sociales a mostrar animaciones y mapas interactivos, las funciones de JavaScript pueden mejorar la experiencia del usuario de un sitio web. Como lenguaje de scripting del lado del servidor, se trata de una de las principales tecnologías de la World Wide Web.
 
