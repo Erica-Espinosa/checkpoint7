@@ -380,17 +380,16 @@ El operador ternario recibe su nombre por ser el único operador en **JavaScript
 
 Para entender mejor este concepto, vamos a ver el siguiente ejemplo, primero vamos a ver la forma convencional y luego vamos a ver el mismo ejemplo con el operador ternario.
 
-```javascript
-var edad = 18
+<pre class="language-javascript"><code class="lang-javascript">var edad = 18
 var mensaje
 if(edad >= 18){
-mensaje = "Eres mayor de edad"
-}else{
-mensaje = "No eres mayor de edad"
+<strong>    mensaje = "Eres mayor de edad"
+</strong>}else{
+    mensaje = "No eres mayor de edad"
 }
 console.log(mensaje)
 //Vamos a ver como resultado Eres mayor de edad
-```
+</code></pre>
 
 En el ejemplo anterior, podemos ver que utilizamos la sintaxis básica de una condicional “`if`”, en la cual estamos comparando si el valor de la variable “`edad`” es mayor o igual a `18`, entonces podemos ver un mensaje “`Eres mayor de edad`”, de lo contrario, vamos a obtener el mensaje que estaría imprimiendo en el “`else`”, es decir: “`No eres mayor de edad`”.
 
@@ -408,7 +407,7 @@ Esta sección del código:
 
 ```javascript
 if(edad >= 18){
-mensaje = "Eres mayor de edad"
+    mensaje = "Eres mayor de edad"
 }
 ```
 
@@ -418,7 +417,7 @@ Y la sección de código correspondiente a:
 
 ```javascript
 else{
-mensaje = "No eres mayor de edad"
+    mensaje = "No eres mayor de edad"
 }
 ```
 
@@ -436,7 +435,7 @@ Para entender la diferencia entre una declaración de función y una expresión 
 
 <figure><img src=".gitbook/assets/funciones.png" alt=""><figcaption></figcaption></figure>
 
-Conclusión.
+### Conclusión.
 
 * Las funciones son valores. Se pueden asignar, copiar o declarar en cualquier lugar del código.
 * Si la función se declara como una declaración separada en el flujo del código principal, eso se llama “_Declaración de función_”
