@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/imagen_azul.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -34,4 +29,3 @@ layout:
 ## [7. ¿Qué es la palabra clave "this" en JS?](aprendiendo-javascript.md#id-7.-que-es-la-palabra-clave-this-en-js)
 
 ## [8. Enlaces sugeridos](aprendiendo-javascript.md#id-8.-enlaces-sugeridos)
-
